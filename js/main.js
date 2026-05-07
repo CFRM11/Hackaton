@@ -31,4 +31,4 @@ async function loadAllComponents() {
 }
 
 // Cargar al iniciar el DOM
-document.addEventListener("DOMContentLoaded", loadAllComponents);
+document.addEventListener("DOMContentLoaded", loadAllComponents); t 
